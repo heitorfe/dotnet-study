@@ -1,0 +1,14 @@
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\bin\Debug\net9.0\args-factorial.exe
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\bin\Debug\net9.0\args-factorial.deps.json
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\bin\Debug\net9.0\args-factorial.runtimeconfig.json
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\bin\Debug\net9.0\args-factorial.dll
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\bin\Debug\net9.0\args-factorial.pdb
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\obj\Debug\net9.0\args-factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\obj\Debug\net9.0\args-factorial.AssemblyInfoInputs.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\obj\Debug\net9.0\args-factorial.AssemblyInfo.cs
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\obj\Debug\net9.0\args-factorial.csproj.CoreCompileInputs.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\obj\Debug\net9.0\args-factorial.dll
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\obj\Debug\net9.0\refint\args-factorial.dll
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\obj\Debug\net9.0\args-factorial.pdb
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\obj\Debug\net9.0\args-factorial.genruntimeconfig.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\args-factorial\obj\Debug\net9.0\ref\args-factorial.dll

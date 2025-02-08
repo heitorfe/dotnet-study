@@ -1,0 +1,14 @@
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\bin\Debug\net9.0\overview.exe
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\bin\Debug\net9.0\overview.deps.json
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\bin\Debug\net9.0\overview.runtimeconfig.json
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\bin\Debug\net9.0\overview.dll
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\bin\Debug\net9.0\overview.pdb
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\obj\Debug\net9.0\overview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\obj\Debug\net9.0\overview.AssemblyInfoInputs.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\obj\Debug\net9.0\overview.AssemblyInfo.cs
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\obj\Debug\net9.0\overview.csproj.CoreCompileInputs.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\obj\Debug\net9.0\overview.dll
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\obj\Debug\net9.0\refint\overview.dll
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\obj\Debug\net9.0\overview.pdb
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\obj\Debug\net9.0\overview.genruntimeconfig.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\overview\obj\Debug\net9.0\ref\overview.dll

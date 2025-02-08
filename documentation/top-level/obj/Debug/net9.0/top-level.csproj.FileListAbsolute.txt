@@ -1,0 +1,14 @@
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\bin\Debug\net9.0\top-level.exe
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\bin\Debug\net9.0\top-level.deps.json
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\bin\Debug\net9.0\top-level.runtimeconfig.json
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\bin\Debug\net9.0\top-level.dll
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\bin\Debug\net9.0\top-level.pdb
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\obj\Debug\net9.0\top-level.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\obj\Debug\net9.0\top-level.AssemblyInfoInputs.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\obj\Debug\net9.0\top-level.AssemblyInfo.cs
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\obj\Debug\net9.0\top-level.csproj.CoreCompileInputs.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\obj\Debug\net9.0\top-level.dll
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\obj\Debug\net9.0\refint\top-level.dll
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\obj\Debug\net9.0\top-level.pdb
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\obj\Debug\net9.0\top-level.genruntimeconfig.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\top-level\obj\Debug\net9.0\ref\top-level.dll
