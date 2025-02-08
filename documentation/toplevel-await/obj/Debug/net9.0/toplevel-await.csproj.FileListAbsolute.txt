@@ -1,0 +1,15 @@
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\bin\Debug\net9.0\toplevel-await.exe
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\bin\Debug\net9.0\toplevel-await.deps.json
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\bin\Debug\net9.0\toplevel-await.runtimeconfig.json
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\bin\Debug\net9.0\toplevel-await.dll
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\bin\Debug\net9.0\toplevel-await.pdb
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\obj\Debug\net9.0\toplevel-await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\obj\Debug\net9.0\toplevel-await.AssemblyInfoInputs.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\obj\Debug\net9.0\toplevel-await.AssemblyInfo.cs
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\obj\Debug\net9.0\toplevel-await.csproj.CoreCompileInputs.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\obj\Debug\net9.0\toplevel-await.sourcelink.json
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\obj\Debug\net9.0\toplevel-await.dll
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\obj\Debug\net9.0\refint\toplevel-await.dll
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\obj\Debug\net9.0\toplevel-await.pdb
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\obj\Debug\net9.0\toplevel-await.genruntimeconfig.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-await\obj\Debug\net9.0\ref\toplevel-await.dll

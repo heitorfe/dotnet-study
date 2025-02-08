@@ -1,0 +1,5 @@
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-args\obj\Debug\net9.0\toplevel-args.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-args\obj\Debug\net9.0\toplevel-args.AssemblyInfoInputs.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-args\obj\Debug\net9.0\toplevel-args.AssemblyInfo.cs
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-args\obj\Debug\net9.0\toplevel-args.csproj.CoreCompileInputs.cache
+C:\Users\HeitorFelix\repos\estudos\documentation\toplevel-args\obj\Debug\net9.0\toplevel-args.sourcelink.json

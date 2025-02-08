@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("top-level")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("toplevel-await")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e0fec119a433ea950a0907c5ad64d0f29aee896")]
-[assembly: System.Reflection.AssemblyProductAttribute("top-level")]
-[assembly: System.Reflection.AssemblyTitleAttribute("top-level")]
+[assembly: System.Reflection.AssemblyProductAttribute("toplevel-await")]
+[assembly: System.Reflection.AssemblyTitleAttribute("toplevel-await")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
