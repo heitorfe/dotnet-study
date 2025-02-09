@@ -1,0 +1,15 @@
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\obj\Debug\net9.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\obj\Debug\net9.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\obj\Debug\net9.0\interfaces.AssemblyInfo.cs
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\obj\Debug\net9.0\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\obj\Debug\net9.0\interfaces.sourcelink.json
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\bin\Debug\net9.0\interfaces.exe
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\bin\Debug\net9.0\interfaces.deps.json
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\bin\Debug\net9.0\interfaces.runtimeconfig.json
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\bin\Debug\net9.0\interfaces.dll
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\bin\Debug\net9.0\interfaces.pdb
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\obj\Debug\net9.0\interfaces.dll
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\obj\Debug\net9.0\refint\interfaces.dll
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\obj\Debug\net9.0\interfaces.pdb
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\obj\Debug\net9.0\interfaces.genruntimeconfig.cache
+C:\Users\HeitorFelix\repos\estudos\type-system\interfaces\obj\Debug\net9.0\ref\interfaces.dll

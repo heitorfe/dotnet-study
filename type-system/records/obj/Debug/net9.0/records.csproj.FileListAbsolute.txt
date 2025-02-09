@@ -1,0 +1,15 @@
+C:\Users\HeitorFelix\repos\estudos\type-system\records\bin\Debug\net9.0\records.exe
+C:\Users\HeitorFelix\repos\estudos\type-system\records\bin\Debug\net9.0\records.deps.json
+C:\Users\HeitorFelix\repos\estudos\type-system\records\bin\Debug\net9.0\records.runtimeconfig.json
+C:\Users\HeitorFelix\repos\estudos\type-system\records\bin\Debug\net9.0\records.dll
+C:\Users\HeitorFelix\repos\estudos\type-system\records\bin\Debug\net9.0\records.pdb
+C:\Users\HeitorFelix\repos\estudos\type-system\records\obj\Debug\net9.0\records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeitorFelix\repos\estudos\type-system\records\obj\Debug\net9.0\records.AssemblyInfoInputs.cache
+C:\Users\HeitorFelix\repos\estudos\type-system\records\obj\Debug\net9.0\records.AssemblyInfo.cs
+C:\Users\HeitorFelix\repos\estudos\type-system\records\obj\Debug\net9.0\records.csproj.CoreCompileInputs.cache
+C:\Users\HeitorFelix\repos\estudos\type-system\records\obj\Debug\net9.0\records.sourcelink.json
+C:\Users\HeitorFelix\repos\estudos\type-system\records\obj\Debug\net9.0\records.dll
+C:\Users\HeitorFelix\repos\estudos\type-system\records\obj\Debug\net9.0\refint\records.dll
+C:\Users\HeitorFelix\repos\estudos\type-system\records\obj\Debug\net9.0\records.pdb
+C:\Users\HeitorFelix\repos\estudos\type-system\records\obj\Debug\net9.0\records.genruntimeconfig.cache
+C:\Users\HeitorFelix\repos\estudos\type-system\records\obj\Debug\net9.0\ref\records.dll
